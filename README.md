@@ -1,8 +1,8 @@
 # Fusco.dev
 
-I build websites and software tools, exploring how thoughtful design, practical engineering and AI can turn ideas into useful experiences.
+I build websites and software tools with a focus on usability, maintainability and clear technical decisions.
 
-My interests include web development, desktop applications, cybersecurity and games. I learn by building, experimenting and improving what I make.
+My interests include web development, desktop applications, cybersecurity and games. I learn by building, experimenting and understanding how things work.
 
 ## Featured project
 
@@ -12,11 +12,12 @@ A live hub for video-game wikis and guides that I build and maintain with HTML, 
 
 It brings together responsive design, navigation, content organization and ongoing improvements. The source repository is private; the website is open to explore.
 
-## Currently exploring
+## How I work
 
-- Building useful tools and interactive experiences.
-- Testing, Git workflows and continuous integration.
-- Working with AI assistants while understanding and reviewing the results.
+- Break work into clear, manageable tasks.
+- Use version control, testing and review to make changes traceable.
+- Consider security and maintainability throughout development.
+- Use AI as a supporting tool, while keeping technical decisions, verification and responsibility with me.
 
 Fusco.dev, my portfolio and personal website, is in preparation.
 
